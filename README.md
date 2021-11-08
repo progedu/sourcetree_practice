@@ -43,3 +43,4 @@ SourceTreeの練習リポジトリです
 | td | いくら |
 | td | マグロ |
 | labeneko | サーモン |
+| hakoeda | 玉子 |
