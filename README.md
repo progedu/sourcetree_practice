@@ -37,4 +37,5 @@ SourceTreeの練習リポジトリです
 | risarisato | エビアボカド|
 | akane | サーモン |
 | akane | いなり |
+| rabeneko | コーン |
 | rabeneko | かんぴょう巻 |
