@@ -8,6 +8,7 @@ SourceTree の練習リポジトリです
 | ---------- | ---------- |
 |test|ホルモン|
 | rabeneko   | レバー     |
+|スシロー|マグロ|
 | rabeneko   | ハツ       |
 | rabeneko   | シマチョウ |
 | tan        | タン
