@@ -6,6 +6,7 @@ SourceTree の練習リポジトリです
 
 | 名前       | 部位       |
 | ---------- | ---------- |
+|test|ホルモン|
 | rabeneko   | レバー     |
 | rabeneko   | ハツ       |
 | rabeneko   | シマチョウ |
