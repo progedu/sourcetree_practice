@@ -84,5 +84,4 @@ SourceTree の練習リポジトリです
 | siro | かっぱ巻き |
 | yu-rie | いちご |
 | test | まぐろ |
-|HappyK|ほたて貝ひも|
 | HK-2 |かんぴょう巻き|
