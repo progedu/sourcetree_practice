@@ -38,3 +38,4 @@ SourceTreeの練習リポジトリです
 | akane | サーモン |
 | akane | いなり |
 | asazuke | カツオ |
+| asazuke | マージできたカツオ |
