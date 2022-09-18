@@ -114,4 +114,5 @@ SourceTree の練習リポジトリです
 | mtn | うに |
 | kuya | オニオンサーモン |
 | kuya | えび |
+| 14chan | まぐろ |
 
