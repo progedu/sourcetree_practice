@@ -130,4 +130,8 @@ SourceTree の練習リポジトリです
 | maguro       | マグロ                           |
 | aiueo        | マグロ                           |
 | kanakana     | ホタテ                           |
+<<<<<<< HEAD
 | kazz210      | まぐろ                           |
+| kazz210      | はまち                           |
+=======
+>>>>>>> upstream/main
