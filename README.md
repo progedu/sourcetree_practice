@@ -132,4 +132,5 @@ SourceTree の練習リポジトリです
 | kanakana     | ホタテ                           |
 | kazz210      | まぐろ                           |
 | kazz210      | はまち                           |
+| t.m      | マグロ                       |
 | t.m      | 甘エビ                           |
