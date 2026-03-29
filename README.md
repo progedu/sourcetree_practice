@@ -142,3 +142,6 @@ SourceTree の練習リポジトリです
 | 回転ずし      | くら寿司                         |
 | かず      | つな                         |
 | rabeneko | マグロ |
+| gaiji | たまご |
+| gaiji    | はまち |
+| gaiji    | はまち |
