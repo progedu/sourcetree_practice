@@ -144,3 +144,4 @@ SourceTree の練習リポジトリです
 | rabeneko | マグロ |
 | gaiji | たまご |
 | gaiji    | はまち |
+| gaiji    | はまち |
